@@ -1,4 +1,8 @@
+<!--
 ## Hi there 👋
+-->
+
+![Codewars](https://github.r2v.ch/codewars?user=Fantaforest&top_languages=true&stroke=rgb(0,0,139)&theme=solarized_dark)
 
 <!--
 **anton-mirazchiyski/anton-mirazchiyski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
